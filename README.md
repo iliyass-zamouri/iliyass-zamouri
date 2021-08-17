@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iliyass-zamouri" alt="iliyass-zamouri" /></a> </p>
 
-- 🌱 I’m currently learning **Vue.js**
-
-- 💬 Ask me about **Laravel, Vue.js, Flutter, PHP...**
+- 💬 freelance creating mobile applications for ios/android
 
 - 📫 How to reach me **iliyass.zamouri@gmail.com**
 
